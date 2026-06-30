@@ -159,6 +159,4 @@ The simulation displays:
 
 Department of Computer Science & Engineering (CSE)
 
-## This README accurately reflects the functionality implemented in your uploaded source code, including the welcome screen, keyboard controls (Space, D, S, L, Esc), right-click menu, celestial body animations, and staged satellite launch📄 License
-
-This project is developed for educational and academic purposes.
+## This README accurately reflects the functionality implemented in your uploaded source code, including the welcome screen, keyboard controls (Space, D, S, L, Esc), right-click menu, celestial body animations, and staged satellite launch
